@@ -11,5 +11,6 @@
 
 ### Simple Blog Project using Laravel Eloquent ORM & Axios 
 
+Config env file for Database. The Database file is included name is ostad_db_laravel19.sql
 
 ### by Nur Alam Prodhan 
